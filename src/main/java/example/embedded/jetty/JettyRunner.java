@@ -20,7 +20,8 @@ public class JettyRunner {
 
     public static void main(String[] args) throws Exception {
 
-        //log4j2 logging levels All, TRACE, DEBUG, INFO, WARN, ERROR, FATAL, OFF  !!
+        //log4j2 logging levels All, TRACE, DEBUG, INFO, WARN, ERROR, FATAL, OFF  !!!
+        // auto synch
 
         logger.error("Error");
         logger.warn("Warn");
