@@ -1,0 +1,14 @@
+2014-06-14 15:52:28,347 WARN e.e.j.JettyRunner [main] Warn
+2014-06-14 15:52:28,349 INFO e.e.j.JettyRunner [main] Info
+2014-06-14 15:52:28,349 ERROR e.e.j.JettyRunner [main] Error
+2014-06-14 15:52:28,349 DEBUG e.e.j.JettyRunner [main] Debug
+2014-06-14 15:54:32,601 WARN e.e.j.JettyRunner [main] Warn
+2014-06-14 15:54:32,603 INFO e.e.j.JettyRunner [main] Info
+2014-06-14 15:54:32,603 ERROR e.e.j.JettyRunner [main] Error
+2014-06-14 15:54:32,603 DEBUG e.e.j.JettyRunner [main] Debug
+2014-06-14 15:54:32,603 TRACE e.e.j.JettyRunner [main] Trace
+2014-06-14 15:57:30,141 WARN e.e.j.JettyRunner [main] Warn
+2014-06-14 15:57:30,142 INFO e.e.j.JettyRunner [main] Info
+2014-06-14 15:57:30,142 ERROR e.e.j.JettyRunner [main] Error
+2014-06-14 15:57:30,142 DEBUG e.e.j.JettyRunner [main] Debug
+2014-06-14 15:57:30,143 TRACE e.e.j.JettyRunner [main] Trace
