@@ -1,0 +1,5 @@
+2014-06-14 16:01:03,715 WARN e.e.j.JettyRunner [main] Warn
+2014-06-14 16:01:03,717 ERROR e.e.j.JettyRunner [main] Error
+2014-06-14 16:01:03,717 INFO e.e.j.JettyRunner [main] Info
+2014-06-14 16:01:03,718 DEBUG e.e.j.JettyRunner [main] Debug
+2014-06-14 16:01:03,718 TRACE e.e.j.JettyRunner [main] Trace
